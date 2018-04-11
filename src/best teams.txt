@@ -1,0 +1,138 @@
+Top 10 Teams found by GA
+GHO, NOR, WAT, ICE, POI, FLY, PSY, BUG, ROC
+DRA, STE, FAI, FIR, GRA, FIG, GRO, DAR, ELE
+
+
+Top 10 with no type gaps:
+	1 Hydreigon, Torterra, Claydol, Infernape, Aggron, Garchomp - 3289
+	2 Charizard, Kommo-o, Metagross, Excadrill, Stunfisk, Weavile - 3223
+	3 Salamence, Steelix, Sharpedo, Meganium, Jolteon, Kommo-o - 3220
+	4 Bronzong, Hydreigon, Kommo-o, Rhyperior, Nidoqueen, Lilligant - 3220
+	5 Excadrill, Noivern, Kommo-o, Alolan-Raichu, Archeops, Weavile - 3205
+	6 Lucario, Tyranitar, Bellossom, Probopass, Seismitoad, Togekiss - 3194
+	7 Tyranitar, Infernape, Vikavolt, Flygon, Tangrowth, Bronzong - 3189
+	8 Talonflamme, Metagross, Lapras, Cofagrigus, Torterra, Snorlax - 3182
+	9 Stoutland, Swampert, Salamence, Blaziken, Magnezone, Malamar - 3182
+	10 Escavalier, Mamoswine, Yanmega, Houndoom, Kommo-o, Magnezone - 3175
+	
+-v POWER MODE v-
+	
+1.
+Tangrowth, Types: Grass and NA, Base power: 535
+Tyranitar, Types: Rock and Dark, Base power: 600
+Kommo-o, Types: Dragon and Fighting, Base power: 600
+Gallade, Types: Psychic and Fighting, Base power: 518
+Metagross, Types: Steel and Psychic, Base power: 600
+Hydreigon, Types: Dark and Dragon, Base power: 600
+
+Team offensively weak against: Grass, Electric, 
+Team defensively weak against: None, 
+Fitness: 3403
+
+2.
+Hippowdon, Types: Ground and NA, Base power: 525
+Metagross, Types: Steel and Psychic, Base power: 600
+Greninja, Types: Water and Dark, Base power: 530
+Cloyster, Types: Water and Ice, Base power: 525
+Slaking, Types: Normal and NA, Base power: 670
+Dragonite, Types: Dragon and Flying, Base power: 600
+
+Team offensively weak against: Normal, Water, Dark, 
+Team defensively weak against: None, 
+Fitness: 3375
+
+3.
+Chesnaught, Types: Grass and Fighting, Base power: 530
+Krookodile, Types: Ground and Dark, Base power: 519
+Aegislash, Types: Steel and Ghost, Base power: 520
+Salamence, Types: Dragon and Flying, Base power: 600
+Rhyperior, Types: Ground and Rock, Base power: 535
+Slaking, Types: Normal and NA, Base power: 670
+
+Team offensively weak against: Flying, 
+Team defensively weak against: None, 
+Fitness: 3349
+
+4.
+Salamence, Types: Dragon and Flying, Base power: 600
+Ampharos, Types: Electric and NA, Base power: 510
+Slaking, Types: Normal and NA, Base power: 670
+Probopass, Types: Rock and Steel, Base power: 525
+Kommo-o, Types: Dragon and Fighting, Base power: 600
+Milotic, Types: Water and NA, Base power: 540
+
+Team offensively weak against: Psychic, Electric, Poison, Ghost, 
+Team defensively weak against: None, 
+Fitness: 3345
+
+5.
+Dragonite, Types: Dragon and Flying, Base power: 600
+Hydreigon, Types: Dark and Dragon, Base power: 600
+Empoleon, Types: Water and Steel, Base power: 530
+Tyranitar, Types: Rock and Dark, Base power: 600
+Aurorus, Types: Rock and Ice, Base power: 521
+Metagross, Types: Steel and Psychic, Base power: 600
+
+Team offensively weak against: Steel, Electric, Normal, Water, Dark, 
+Team defensively weak against: None, 
+Fitness: 3326
+
+6.
+Slowking, Types: Water and Psychic, Base power: 490
+Metagross, Types: Steel and Psychic, Base power: 600
+Dragonite, Types: Dragon and Flying, Base power: 600
+Tyranitar, Types: Rock and Dark, Base power: 600
+Hydreigon, Types: Dark and Dragon, Base power: 600
+Gliscor, Types: Ground and Flying, Base power: 510
+
+Team offensively weak against: Normal, Water, Dark, 
+Team defensively weak against: None, 
+Fitness: 3325
+
+7.
+Krookodile, Types: Ground and Dark, Base power: 519
+Metagross, Types: Steel and Psychic, Base power: 600
+Simisage, Types: Grass and NA, Base power: 498
+Gyarados, Types: Water and Flying, Base power: 540
+Infernape, Types: Fire and Fighting, Base power: 534
+Slaking, Types: Normal and NA, Base power: 670
+
+Team offensively weak against: Flying, Dragon, 
+Team defensively weak against: None, 
+Fitness: 3311
+
+8.
+Kommo-o, Types: Dragon and Fighting, Base power: 600
+Shiftry, Types: Grass and Dark, Base power: 480
+Metagross, Types: Steel and Psychic, Base power: 600
+Mudsdale, Types: Ground and NA, Base power: 500
+Volcarona, Types: Bug and Fire, Base power: 550
+Dragonite, Types: Dragon and Flying, Base power: 600
+
+Team offensively weak against: Flying, 
+Team defensively weak against: None, 
+Fitness: 3305
+
+9.
+Torterra, Types: Grass and Ground, Base power: 525
+Slaking, Types: Normal and NA, Base power: 670
+Feraligatr, Types: Water and NA, Base power: 530
+Primarina, Types: Water and Fairy, Base power: 530
+Tyranitar, Types: Rock and Dark, Base power: 600
+Dragonite, Types: Dragon and Flying, Base power: 600
+
+Team offensively weak against: Steel, Fairy, Poison, Normal, 
+Team defensively weak against: Fairy, 
+Fitness: 3305
+
+10.
+Krookodile, Types: Ground and Dark, Base power: 519
+Salamence, Types: Dragon and Flying, Base power: 600
+Ampharos, Types: Electric and NA, Base power: 510
+Metagross, Types: Steel and Psychic, Base power: 600
+Heliolisk, Types: Electric and Normal, Base power: 481
+Slaking, Types: Normal and NA, Base power: 670
+
+Team offensively weak against: Normal, Ground, Dark, 
+Team defensively weak against: None, 
+Fitness: 3305
